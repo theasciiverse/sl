@@ -1,3 +1,4 @@
+# Asciiverse release workflow (tag v* or run by hand with a tag)
 # Builds sl for the Asciiverse catalog and as system packages.
 #
 # For av: one archive per target, named sl-<target>.tar.gz, plus a
